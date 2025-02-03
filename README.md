@@ -12,6 +12,14 @@ E, em seguida:
 ```shell
 py mathecad.py
 ```
+# Disponibilidade de recursos
+> **Versão 0.1**
+####
+A disponibilidade nesta versão é mais limitada. Confira:
+
+| Recurso | Comando | Opções |
+|--------|------|-----|
+| Zoneamento | Quadra().zone() | Residential (padrão), commercial, park, industrial|
 
 # Exemplos de código
 ```python
