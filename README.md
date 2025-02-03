@@ -3,7 +3,7 @@ O MatheCAD é projetado para você fazer projetos de cidades gratuitamente e em 
 # Como Executar?
 Execute em seu terminal:
 ```python
-'pip install pyqt5
+pip install pyqt5
 ```
 
 E, em seguida:
