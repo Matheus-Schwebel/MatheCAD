@@ -19,7 +19,8 @@ A disponibilidade nesta versão é mais limitada. Confira:
 
 | Recurso | Comando | Opções |
 |--------|------|-----|
-| Zoneamento | Quadra().zone() | Residential (padrão), commercial, park, industrial|
+| Zoneamento | Quadra().zone() | Residential (padrão), commercial, park, industrial |
+| Rotatórias | Quadra().create_roundabout() | x, y, raio |
 
 # Exemplos de código
 ```python
