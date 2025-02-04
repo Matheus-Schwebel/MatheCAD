@@ -1,7 +1,15 @@
 # MatheCAD
-> **Versão 0.2**<br>
-####
-O MatheCAD é projetado para você fazer projetos de cidades gratuitamente e em um App leve.
+> **Versão 0.2.0**<br>
+#####
+> **Versão 0.3.0**<br>
+#####
+[Leggo in Italiano](https://github.com/Matheus-Schwebel/MatheCAD/blob/main/README-it.md)
+<!-- [Leggo in Español](https://github.com/Matheus-Schwebel/MatheCAD/blob/main/README-es.md) -->
+[I read in English](https://github.com/Matheus-Schwebel/MatheCAD/blob/main/README-en.md)
+
+
+
+O MatheCAD é projetado para você fazer projetos de cidades gratuitamente e em um app leve.
 # Como Executar?
 Execute em seu terminal:
 ```shell
