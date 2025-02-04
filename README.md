@@ -17,10 +17,11 @@ py mathecad.py
 ####
 A disponibilidade nesta versão é mais limitada. Confira:
 
-| Recurso | Comando | Opções |
-|--------|------|-----|
-| Zoneamento | Quadra().zone() | Residential (padrão), commercial, park, industrial |
-| Rotatórias | Quadra().create_roundabout() | x, y, raio |
+| Recurso | Comando | Opções | Obsoleto
+|--------|------|-----|-------|
+| Zoneamento | Quadra().zone() | Residential (padrão), commercial, park, industrial | Não |
+| Rotatórias | Quadra().create_roundabout() | x, y, radius | Sim |
+| Rotatórias | draw_roundabout() | x, y, radius | Não |
 
 # Exemplos de código
 ```python
