@@ -1,7 +1,7 @@
 # Disponibilidade de recursos
 > **Versão 0.1**
 
-[Download](https://github.com/Matheus-Schwebel/MatheCAD/blob/main/v0.2.0/)
+[Download](https://github.com/Matheus-Schwebel/MatheCAD/blob/main/v0.2.0/raw/main/v0.2.0/mathecad-0.2.0.zip)
 
 ####
 A disponibilidade nesta versão é mais limitada. Confira:
