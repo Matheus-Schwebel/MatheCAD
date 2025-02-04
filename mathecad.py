@@ -1,8 +1,7 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QMainWindow, QGraphicsScene, QGraphicsView, QTextEdit, QPushButton, QVBoxLayout, QWidget,QGraphicsRectItem
+from PyQt5.QtWidgets import QApplication, QMainWindow, QGraphicsScene, QGraphicsView, QTextEdit, QPushButton, QVBoxLayout, QWidget,QGraphicsRectItem, QMessageBox
 from PyQt5.QtGui import QPen, QBrush, QColor, QPainter, QPainterPath
 from PyQt5.QtCore import Qt, QRectF
-
 class CADGraphicsView(QGraphicsView):
     def __init__(self, scene):
         super().__init__(scene)
@@ -46,7 +45,7 @@ class CADGraphicsView(QGraphicsView):
 class CADWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("City Planner")
+        self.setWindowTitle("MatheCAD 0.2")
         self.setGeometry(100, 100, 1000, 700)
 
         self.scene = QGraphicsScene()
@@ -128,8 +127,15 @@ class Quadra:
         for i in range(num_plots):
             self.scene.addRect(QRectF(self.x + i * (plot_width + margin), self.y + plot_height, plot_width, plot_height), QPen(Qt.black, 2))
     def create_roundabout(self, x, y, radius):
+        msg = QMessageBox()
+        msg.setWindowTitle("Aviso: Função Obsoleta")
+        msg.setText("A Função <b style='color: red'><i>Quadra().create_roundabout()</i></b> está obsoleta e será substituída por <b style='color: green'><i>draw_roundabout()</i></b> na versão 0.3.")
+        msg.setIcon(QMessageBox.Warning)  # Ícone de aviso
+        msg.exec_()
+
         # Criar a rotatória
         return CADGraphicsView(self.scene).draw_roundabout(x, y, radius)
+        
 
 # Função para criar uma linha independente (avenida ou canteiro)
 def draw_independent_line(x, y, width, height, scene):
