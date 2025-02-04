@@ -110,7 +110,7 @@ class CADGraphicsView(QGraphicsView):
 class CADWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("City Planner")
+        self.setWindowTitle("MatheCAD 0.3.0")
         self.setGeometry(100, 100, 1000, 700)
 
         self.scene = QGraphicsScene()
