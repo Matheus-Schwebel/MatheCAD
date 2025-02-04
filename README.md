@@ -1,5 +1,5 @@
 # MatheCAD
-> **Versão 0.1**<br>
+> **Versão 0.2**<br>
 ####
 O MatheCAD é projetado para você fazer projetos de cidades gratuitamente e em um App leve.
 # Como Executar?
