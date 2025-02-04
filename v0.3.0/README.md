@@ -1,3 +1,5 @@
+*Arquivo ZIP ainda não disponível!*
+
 # Disponibilidade de recursos
 > **Versão 0.3.0**
 ####
