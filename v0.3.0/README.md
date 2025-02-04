@@ -1,8 +1,13 @@
-*Arquivo ZIP ainda não disponível!*
+> **Versão 0.3.0**
+#####
+
+[Baixe Aqui]([https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0))
+[Download Here]([https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0))
+[Scaricare Qui]([https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0))
 
 # Disponibilidade de recursos
 > **Versão 0.3.0**
-####
+#####
 <b style="color: red">Em andamento...</b>
 
 | Recurso | Comando | Opções | Obsoleto |
