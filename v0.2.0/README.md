@@ -1,5 +1,5 @@
 # Disponibilidade de recursos
-> **Versão 0.1**
+> **Versão 0.2.0**
 
 [Download](https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip)
 
