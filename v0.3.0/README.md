@@ -1,11 +1,11 @@
 > **Versão 0.3.0**
 #####
 
-[Baixar]([https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0))
+[Baixar Aqui](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0)
 
-[Download]([https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0))
+[Download Here](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0)
 
-[Scaricare]([https://github.com/Matheus-Schwebel/MatheCAD/raw/main/v0.2.0/mathecad-0.2.0.zip](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0))
+[Scaricare Qui](https://github.com/Matheus-Schwebel/MatheCAD/releases/tag/v0.3.0)
 
 # Disponibilidade de recursos
 > **Versão 0.3.0**
